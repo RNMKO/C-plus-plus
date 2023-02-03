@@ -11,7 +11,6 @@ Silent version possible
 Tenting-tilting can be removed
 RGB backlighting for three zones possible
 
-[](pics/CPP_01.jpg)
+[pics/CPP_01.jpg](https://github.com/redkey13/C-plus-plus/blob/main/pics/CPP_01.JPG)
 
-![](pics/CPP_02.jpg)
-
+![pics/CPP_02.jpg](https://github.com/redkey13/C-plus-plus/blob/main/pics/CPP_02.JPG)
