@@ -17,7 +17,7 @@ Tenting-tilting can be removed
 RGB backlighting for three zones possible
 
 
-![pics/CPP_02.jpg](https://github.com/redkey13/C-plus-plus/blob/main/pics/CPP_02.JPG)
+![pics/CPP_02.jpg](https://github.com/RNMKo/C-plus-plus/blob/main/pics/CPP_02.JPG)
 
 
 # Characteristics
@@ -40,7 +40,7 @@ Backlit each key, lower backlight, OLED zone illumination
 
 Adding OLED display (in development)
 
-![pics/CPP_03.jpg](https://github.com/redkey13/C-plus-plus/blob/main/pics/CPP_03.JPG)
+![pics/CPP_03.jpg](https://github.com/RNMKo/C-plus-plus/blob/main/pics/CPP_03.JPG)
 
 # Purshase
 
